@@ -17,7 +17,11 @@ CTRL+F - jump to a specific given time
 F12 - help menu or command finder xD
 
 Entire UI pops up on pause and hides on play
+
 Flash timeline for a second on forward/backward
+
 No black boxes for title and speedmeter
+
 Shows mouse all the time when paused, hides when playing
+
 Thumbnail script installed
